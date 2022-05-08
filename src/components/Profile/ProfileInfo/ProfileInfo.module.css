@@ -1,0 +1,12 @@
+.descriptionBlock {
+    padding: 10px;
+}
+
+.descriptionBlock img{
+    width: 100px;
+    border-radius: 50px;
+}
+
+.image {
+    width: 1000px;
+}

@@ -1,0 +1,27 @@
+.formControl.error input .formControl.error textarea {
+    border: 1px red solid;
+}
+
+.formControl.error span {
+    color: rgb(228, 32, 32);
+    background-color: white;
+    border-radius: 7px;
+    width: 100px;
+    font-size: 20px;
+    padding: 2px 2px;
+  
+    cursor: default;
+}
+
+.formControl.error span:hover {
+    background-color: rgb(228, 32, 32);
+    color: white;
+}
+
+.formSummaryError {
+    border: red 1px solid;
+    padding: 5px;
+    color: rgb(73, 73, 73);
+    font-weight: bold;
+    width: 15%;
+}

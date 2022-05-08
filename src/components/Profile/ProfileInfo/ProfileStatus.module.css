@@ -1,0 +1,5 @@
+.s span:hover {
+  cursor: text;
+  color: white;
+  user-select: none;
+}

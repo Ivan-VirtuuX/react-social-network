@@ -1,0 +1,12 @@
+* {
+  font-size: 20px;
+}
+
+.sendBtn {
+  border: none;
+}
+
+.sendBtn:hover {
+  color: white;
+  background-color: blueviolet;
+}

@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Oxygen:wght@300&display=swap');
+
+.userPhoto {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 60px 0;
+}
+
+.spans {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.spans button {
+    background-color: #3d3d3d;
+    border: none;
+    font-size: 23px;
+    color: white;
+    margin: 10px 0 10px 2px;
+    margin-left: 10px;
+    border-radius: 100px;
+    width: 37px;
+    height: 37px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.spans button:hover {
+    background-color: rgb(255, 255, 255);
+    color: #3d3d3d;
+    font-weight: bold;
+}
+
+.spans .selectedPage {
+    font-weight: bold;
+    background-color: white;
+    color: #3d3d3d;
+}
+
+.followBtn button {
+    border: none;
+    background-color: #3d3d3d;
+    color: white;
+    font-size: 23px;
+    font-family: calibri;
+    margin: 0 95px 5px;
+    border-radius: 10px;
+}
+
+.followBtn button:hover {
+    background-color: #ffffff;
+    color: #3d3d3d;
+}
+
+.users {
+    font-family: 'Montserrat';
+    font-size: 20px;
+    margin: 5px 10px 10px;
+    background-color: #6a2ab3;
+    color: white;
+    font-weight: 300;
+    border-radius: 10px;
+    width: 240px;
+    height: 75px;
+    text-align: center;
+}
+
+.usersDiv{
+    display: inline
+    
+}

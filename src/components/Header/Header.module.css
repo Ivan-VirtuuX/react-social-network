@@ -1,0 +1,45 @@
+.header {
+  grid-area: h;
+  background-color: rgb(130, 52, 202);
+}
+
+.header img {
+  width: 50px;
+  margin: 5px;
+  margin-left: 20px;
+}
+
+.loginBlock {
+  float: right;
+  position: relative;
+  top: 0.2em;
+  font-size: 30px;
+  color: white;
+  left: -25px;
+
+}
+
+.loginBlock button {
+  border: none;
+  background-color: #3d3d3d;
+  margin: 0 20px 5px;
+  font-size: 23px;
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.loginBlock button:hover {
+  background-color: #ffffff;
+  color: #3d3d3d;
+  cursor: pointer;
+}
+
+.loginBlock a {
+  color: white;
+  margin: 25px;
+  text-decoration: none;
+  position: relative;
+  top: 0.2em;
+  font-size: 30px;
+}
